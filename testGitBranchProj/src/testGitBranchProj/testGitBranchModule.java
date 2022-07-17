@@ -15,6 +15,8 @@ public class testGitBranchModule {
 	public static void main(String[] args) {
 		//XXX 初期コミット
 		System.out.print("START");
+		//XXX チケット:0011変更
+		System.out.print("0011_1");
 	}
 
 }
